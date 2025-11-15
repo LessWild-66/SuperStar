@@ -25,4 +25,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u 学习通账号 -p 学习通密码 -l 244403509 #课程id，默认为心理课的
+        run: python main.py -u 13165077092 -p 3769548zheng -l 254939971 #课程id，默认为心理课的
